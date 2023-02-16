@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main: entry
- * Description: print types
- * Return: 0
-*/
+ * main - Entry point
+ * Description: "prints size of var types"
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
