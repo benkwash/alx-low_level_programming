@@ -12,9 +12,9 @@ int main(void)
 	int first;
 	int second;
 
-	for (first = 0; first < 9; a++)
+	for (first = 0; first < 9; first++)
 	{
-		for (second = 1; second < 10; b++)
+		for (second = 1; second < 10; second++)
 		{
 			if (first != second && second > first)
 			{
